@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Gemini Chat Exporter",
+  "version": "1.0",
+  "description": "Export current Gemini chat to Markdown or JSON",
+  "permissions": ["activeTab", "scripting", "tabs"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
